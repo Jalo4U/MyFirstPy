@@ -9,6 +9,8 @@ ans=0
 for b in range(21):
     ans=b+ans
     print("Sum of first",b,"integers is",ans)
+    
+sum(range(21))
 
 """
 Note:- 
